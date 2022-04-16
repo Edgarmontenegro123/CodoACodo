@@ -1,0 +1,1 @@
+Recordar que proyectos de React tienen que crearse en carpetas diferentes como proyectos.
